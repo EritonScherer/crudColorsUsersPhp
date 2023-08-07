@@ -1,0 +1,17 @@
+{
+    "name": "eriton/prova-php",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eriton Gustavo Scherer"
+        }
+    ],
+    "require": {
+        "league/plates": "^3.5",
+        "twbs/bootstrap": "^5.3"
+    }
+}
